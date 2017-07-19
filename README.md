@@ -3,3 +3,9 @@
 ```
 npm run dev
 ```
+
+Do the following to test a 3rd loading:
+- add a component module in directory '/components'
+- modify '/pages/index.js' to use the new component
+- npm start
+- check http://localhost:3000 for the expected output
