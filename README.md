@@ -4,7 +4,7 @@
 npm run dev
 ```
 
-Do the following to test a 3rd loading:
+Do the following to test a 3rd-party custom module loading:
 - add a component module in directory '/components'
 - modify '/pages/index.js' to use the new component
 - npm start
