@@ -9,3 +9,5 @@ Do the following to test a 3rd loading:
 - modify '/pages/index.js' to use the new component
 - npm start
 - check http://localhost:3000 for the expected output
+
+The web server when restarted (npm start) will automatically rebuild a new table of components based on what are currently in the directory '/components'.
